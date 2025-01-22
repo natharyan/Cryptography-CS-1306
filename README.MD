@@ -2,8 +2,6 @@
 
 ### Faculty Name
 - **Debayan Gupta** [debayan.gupta@ashoka.edu.in]  
-- **Karthik Sridhar** [karthik.sridhar_asp25@ashoka.edu.in]  
-- **Pranit Sinha** [pranit.sinha_asp25@ashoka.edu.in]  
 
 ---
 
