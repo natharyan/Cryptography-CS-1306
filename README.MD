@@ -1,7 +1,7 @@
 # Cryptography [CS-1306/ MAT-1201] [CS-1306/ MAT-1201-1]
 
 ### Faculty Name
-- **Debayan Gupta** [debayan.gupta@ashoka.edu.in]  
+- **Debayan Gupta**
 
 ---
 
