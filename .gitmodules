@@ -1,0 +1,3 @@
+[submodule "PSET 3/extra credit"]
+	path = PSET 3/extra credit
+	url = https://github.com/natharyan/Secret-Sharing-Arithmetic-Functions.git
